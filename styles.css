@@ -144,3 +144,6 @@ a {
 .container-nav{
   background-color: rgb(207, 240, 22);
 }
+.greeting{
+    text-align: center;
+}
